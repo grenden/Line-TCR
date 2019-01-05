@@ -95,7 +95,7 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,"u3f87a7a2449793ecf3cf6280fe6fabfa"]
+Bots=[mid,Amid,Bmid,Cmid,"MID_ID"]
 admin=["u3f87a7a2449793ecf3cf6280fe6fabfa"]
 admsa=["u3f87a7a2449793ecf3cf6280fe6fabfa"]
 wait = {
